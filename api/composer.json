@@ -1,0 +1,13 @@
+{
+    "name": "discuss-book/discuss-book",
+    "description": "discuss-book is a place to ask questions according to page number of the book",
+    "authors": [
+        {
+            "name": "discuss-book",
+            "email": "admin@discuss-book.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^2.6"
+    }
+}

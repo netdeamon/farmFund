@@ -1,0 +1,13 @@
+{
+    "name": "farm-fund/farm-fund",
+    "description": "Crowd sourcing for farmers",
+    "require": {
+        "slim/slim": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "santosh",
+            "email": "san_v500@yahoo.com"
+        }
+    ]
+}
